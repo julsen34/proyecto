@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open iniciodesecion.jsp with Brave",
+            "file": "C:\\Users\\fuerz\\proyecto\\src\\main\\mebapp\\iniciodesecion.jsp",
+            "runtimeExecutable": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+        }
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open procesadorDeImagenes.html with Brave",
+            "file": "c:\\Users\\fuerz\\proyect\\public\\procesadorDeImagenes.jsp",
+            "runtimeExecutable": "C:\\Users\\fuerz\\proyecto\\src\\main\\mebapp\\inicio.jsp"
+        }
+    ]
+}
